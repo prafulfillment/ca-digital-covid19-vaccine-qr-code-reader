@@ -1,4 +1,4 @@
-# California Vaccine Record QR Code Reader
+# California Digital COVID-19 Vaccine Record QR Code Reader
 
 1. Go to https://myvaccinerecord.cdph.ca.gov/
 2. Fill out form
